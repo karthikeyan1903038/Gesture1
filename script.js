@@ -1,4 +1,5 @@
 function sendData() {
+  console.log("hi");
 fetch('https://raw.githubusercontent.com/karthikeyan1903038/Gesture1/main/data.json', {
 method: 'POST',
 headers: {
