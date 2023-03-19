@@ -1,5 +1,5 @@
 function sendData() {
-fetch('https://raw.githubusercontent.com/your-username/your-repo/master/data.json', {
+fetch('https://raw.githubusercontent.com/karthikeyan1903038/Gesture1/master/data.json', {
 method: 'POST',
 headers: {
   'Content-Type': 'application/json'
